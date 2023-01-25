@@ -12,7 +12,7 @@ Finally, I cure the objects in the same station, positioning them at such an ang
 # The choice of silicone
 This is the tricky part. Staying in the ideology of accessibility and DIY, I used the usual model two-component silicone available in the hobby store.
 Two-component platinum-based silicones definitely do not work - there is some kind of reaction between the silicone and the printed part and the silicone does not polymerize.
-Tin-based silicones remain, they generally work well. However, not all, I have met at least one that sticks to MCLA molds absolutely tightly and then it is impossible to separate the finished inserts. Accordingly, if someone decides to make such inserts, silicone will have to be selected empirically.
+Tin-based silicones remain, they generally work well. However, not all, I have met at least one that sticks to MSLA printed parts absolutely tightly and then it is impossible to separate the finished inserts. Accordingly, if someone decides to make such inserts, silicone will have to be selected empirically.
 I didn't use any chemical separators because I didn't want to add their remnants to the biological medium.
 
 ## Step 1 and 2
