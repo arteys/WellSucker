@@ -31,10 +31,15 @@ After the silicone has hardened, the inserts can be removed with tweezers. Norma
 
 
 ## Inserts in cells of cultural plate
-
+After being removed from the molds, the inserts can be sterilized with ethyl alcohol. I have not tried other methods of sterilization, although they certainly exist. Ethanol sterilization requires inserts to be placed in 70% ethanol for several minutes, after which they are removed, dried and placed in phosphate buffer or any other sterile liquid to remove residual ethanol.
+Finally the inserts are ready to use. In order to install the insert into the cell of the tablet, it is worth using tweezers. The most important thing is to determine where the insert has the top, it is more shiny, and the bottom is matte. Accordingly, the lower part of the insert is placed on the bottom of the cell and gently pressed with tweezers from above. This is also a skill, however by the middle of the first 24 well plate it starts to come easy.
+It is worth adding cells to the plate with relative accuracy. If you fill them too hard, you can wash off the insert, although this is unlikely.
 
 ![Inserts in plate](https://github.com/arteys/WellSucker/blob/main/Images/Fig%203.jpg?raw=true)
 
+WARNING: These silicone inserts are amazingly bouncy. If they are pressed too hard and then released abruptly, they can jump to the other end of the laminar flow hood and fall into the vents.
+
 ## Inserts, view from the back of the tablet
+To make sure the inserts stick, you can turn the tablet upside down. If the inserts are held securely they will of course not fall off if everything is done correctly.
 
 ![Inserts in plate](https://github.com/arteys/WellSucker/blob/main/Images/Fig%204.jpg?raw=true)
