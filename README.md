@@ -35,7 +35,7 @@ After being removed from the molds, the inserts can be sterilized with ethyl alc
 Finally the inserts are ready to use. In order to install the insert into the cell of the tablet, it is worth using tweezers. The most important thing is to determine where the insert has the top, it is more shiny, and the bottom is matte. Accordingly, the lower part of the insert is placed on the bottom of the cell and gently pressed with tweezers from above. This is also a skill, however by the middle of the first 24 well plate it starts to come easy.
 It is worth adding cells to the plate with relative accuracy. If you fill them too hard, you can wash off the insert, although this is unlikely.
 
-![Inserts in plate](https://github.com/arteys/WellSucker/blob/main/Images/Fig%203.jpg?raw=true)
+![Inserts in plate](https://github.com/arteys/WellSucker/blob/main/Images/Fig%203_2.png?raw=true)
 
 WARNING: These silicone inserts are amazingly bouncy. If they are pressed too hard and then released abruptly, they can jump to the other end of the laminar flow hood and fall into the vents.
 
@@ -43,3 +43,10 @@ WARNING: These silicone inserts are amazingly bouncy. If they are pressed too ha
 To make sure the inserts stick, you can turn the tablet upside down. If the inserts are held securely they will of course not fall off if everything is done correctly.
 
 ![Inserts in plate](https://github.com/arteys/WellSucker/blob/main/Images/Fig%204.jpg?raw=true)
+
+## Cells after removal of the insert
+The next day, you can remove the inserts from the cells with tweezers and see something like this. I have not observed any significant cellular toxicity from silicone, but I may have been lucky with the choice of silicone.
+![Cells in plate](https://github.com/arteys/WellSucker/blob/main/Images/Fig%205.png?raw=true)
+
+## References
+Expected soon, under review now. 
