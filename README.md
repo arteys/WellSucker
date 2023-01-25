@@ -16,17 +16,22 @@ Tin-based silicones remain, they generally work well. However, not all, I have m
 I didn't use any chemical separators because I didn't want to add their remnants to the biological medium.
 
 ## Step 1 and 2
-
+Two-component silicone is mixed according to the manufacturer's instructions and poured into the wells. If the silicone is viscous, then the molds may have to be evacuated. I used a fairly fluid one, so there were no problems with bubbles.
+However, if bubbles form in the finished inserts, they will spoil everything, in which case the molds with silicone must be evacuated. A certain amount of silicone may leave the wells - the most important thing is that their bottom is evenly covered, silicone can always be added after vacuuming.
 
 ![Step 1 and 2](https://github.com/arteys/WellSucker/blob/main/Images/Fig%201.png?raw=true)
 
 
 ## Step 3
+But the next part requires some skill. With a wooden spatula (or any flat tool that you don’t mind throwing away later), you need to remove excess silicone, which will definitely be. The easiest way is to place the tool at an angle to the mold and, as it were, cut off all excess silicone. Ideally, the wells should be filled exactly to the edge, but no more. You can try to remove the excess with a cloth, but this is not very convenient.
 
 ![Step 3](https://github.com/arteys/WellSucker/blob/main/Images/Fig%202.png?raw=true)
 
+After the silicone has hardened, the inserts can be removed with tweezers. Normally, they are removed quite easily, but if they stick so that they are torn to pieces, this silicone is probably not suitable.
+
 
 ## Inserts in cells of cultural plate
+
 
 ![Inserts in plate](https://github.com/arteys/WellSucker/blob/main/Images/Fig%203.jpg?raw=true)
 
