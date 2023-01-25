@@ -37,7 +37,7 @@ It is worth adding cells to the plate with relative accuracy. If you fill them t
 
 ![Inserts in plate](https://github.com/arteys/WellSucker/blob/main/Images/Fig%203_2.png?raw=true)
 
-** WARNING: ** These silicone inserts are amazingly bouncy. If they are pressed too hard and then released abruptly, they can jump to the other end of the laminar flow hood and fall into the vents.
+**WARNING:** These silicone inserts are amazingly bouncy. If they are pressed too hard and then released abruptly, they can jump to the other end of the laminar flow hood and fall into the vents.
 
 ## Inserts, view from the back of the plate
 To make sure the inserts stick, you can turn the plate upside down. If the inserts are held securely they will of course not fall off if everything is done correctly.
