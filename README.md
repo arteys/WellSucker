@@ -56,4 +56,4 @@ Expected soon, under review now.
 
 ## License
 This project is open-source and is released under the CERN open hardware license. 
-All files have been designed using  [FreeCAD](https://www.freecadweb.org/) 
+All files have been designed using  [FreeCAD](https://www.freecadweb.org/), illustrations made in [Inkscape](https://inkscape.org/).
