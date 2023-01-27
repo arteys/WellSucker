@@ -53,3 +53,6 @@ The next day, you can remove the inserts from the cells with tweezers and see so
 
 ## References
 Expected soon, under review now. 
+
+## License
+This project is open-source and is released under the CERN open hardware license. 
