@@ -51,7 +51,7 @@ To make sure the inserts stick, you can turn the plate upside down. If the inser
 The next day, you can remove the inserts from the cells with tweezers and see something like this. I have not observed any significant cellular toxicity from silicone, but I may have been lucky with the choice of silicone. These are Vero culture cells, but experiments were also carried out with others cell lines.
 ![Cells in plate](https://github.com/arteys/WellSucker/blob/main/Images/Fig%205.png?raw=true)
 
-## References
+## Featured in
 https://doi.org/10.3390/ijms24098150
 
 ## License
