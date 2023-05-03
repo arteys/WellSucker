@@ -52,7 +52,7 @@ The next day, you can remove the inserts from the cells with tweezers and see so
 ![Cells in plate](https://github.com/arteys/WellSucker/blob/main/Images/Fig%205.png?raw=true)
 
 ## References
-Expected soon, under review now. 
+https://doi.org/10.3390/ijms24098150
 
 ## License
 This project is open-source and is released under the CERN open hardware license. 
